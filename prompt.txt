@@ -1,0 +1,5 @@
+bagaimana cara tambahkan input lalu menjumlahkannya di java
+bagaimana deteksi kalau input int yang dimasukkan itu overflow
+how to fix it
+bagaimana perbaikan compile nya
+bagaimana menambah input untuk bilangan desimal dan cara menjumlahkan dengan float dan double
