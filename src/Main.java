@@ -13,8 +13,8 @@ public class Main {
         System.out.println("OVERFLOW");
     }
 
-    float a = sc.nextFloat ();
-    float b = sc.nextFloat ();
-    
+    float x = sc.nextFloat ();
+    float y = sc.nextFloat ();
+    float hasil = x + y;
     }
 }
